@@ -4,6 +4,7 @@ using namespace std;
 
 int a=1;
 
+
 int funcion (int numln){
 a=a+1;
 int numFin=numln*numln;
